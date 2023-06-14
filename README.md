@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**chezkesheng/chezkesheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tool
+- Version Control(Git/it-Flow)
+- Test Driven Developer
+- Open Source Projects
+- Travis-CI
 
-Here are some ideas to get you started:
+## 💡 Projects
+- [Team of Pokemon](https://ms314006.github.io/team-of-pokemon/dist/)
+- [Hangman](https://ms314006.github.io/hangman/dist/)
+- [90 secconds game - A yellow duck](https://ms314006.github.io/90_secGame-with-React/dist/)
+- [Free cell](https://ms314006.github.io/FreeCell-With-React/dist/index.html)
+- [Music player](https://ms314006.github.io/MP3_Player-With-React/dist/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Get in touch
+- Personal site: http://ms314006.github.io/
+- Dev.to: https://dev.to/ms314006
+- StackOverflow: https://stackoverflow.com/users/10421516/clark
+- Medium: https://medium.com/@GQSM
